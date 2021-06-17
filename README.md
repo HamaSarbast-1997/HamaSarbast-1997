@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HamaSarbast-1997
-- 👀 I’m interested in software development ...
-- 🌱 I’m currently learning node-js express-js react-js MongooDb(mongoose) Mysql(sequelize , knex.js)...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in software development
+- 💻 Back-End Developer at Lucide-Source
+- 🌱 I’m currently learning node-js express-js react-js MongooDb(mongoose) Mysql(sequelize , knex.js)
 - 📫 Email: hsarbast20@gmail.com  phone: +964 750 890 6562 
 
 <!---
