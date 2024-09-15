@@ -38,10 +38,8 @@
  * @param {string} specialization - Building full-fledged Backend systems.
  * @param {string} interests - AI, Distributed Systems & problem-solving.
  * @param {string} hobbies - Trekking, Reading, gaming & playing music.
- * @param {string} education - BTech Computer Engineering, Viswakarma Institute of Technology, Pune.
+ * @param {string} education - Salahaddin University, Software & informatics Engineering.
  * @param {string} approachable - Yes, to collaborate on exciting projects, don't hesitate to react out.
- * @param {string} stength - Resolute.
- * @param {string} weakness - Shyness.
  *
  * @throws {Punch} To any and all bugs.
  *
@@ -171,9 +169,6 @@
 
 [//]: # (Fighting against markdown and blocks isn't easy, indentation is catastrophic)
 
-## Let's Work on Your Project Together!
-
-If you have any questions about web development, writing mistake-free documentation or AI, feel free to <a href="mailto:kkapgate5@gmail.com">contact me by email</a>, I won't bite, I promise.
 
   </td>
   <td width="50%" valign="top">
@@ -203,8 +198,3 @@ If you have any questions about web development, writing mistake-free documentat
 <a href="https://www.hackerrank.com/profile/kartik_kapgate" target="_blank"><img width="100px" src="https://user-images.githubusercontent.com/1194257/65596422-1cef2080-df97-11e9-9abb-a225204d1805.png" alt="HackerRank" /></a>
 <a href="https://steamcommunity.com/id/kk10-/" target="_blank"><img width="110px" alt="Steam" src="https://e7.pngegg.com/pngimages/768/845/png-clipart-brand-logo-product-design-font-steam-text-logo.png" /></a>
 </div>
-
-------
-Credit: [10Kartik](https://github.com/10Kartik)
-
-Last Edited on: 18/01/2024
