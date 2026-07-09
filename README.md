@@ -2,7 +2,7 @@
   <img src="./assets/sarbast-script-banner.png" alt="Sarbast Script - Muhammed Sarbast" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Muhammed Sarbast 👋</h1>
+<h1 align="center">Hi, I'm Mohammed Sarbast 👋</h1>
 
 <p align="center">
   <strong>Software Engineer · Back-End Developer · Software Leader</strong>
